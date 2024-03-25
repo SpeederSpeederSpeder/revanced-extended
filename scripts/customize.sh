@@ -88,7 +88,7 @@ if [ $INS = true ]; then
 		BASEPATH=${BASEPATH##*:}
 		BASEPATH=${BASEPATH%/*}
 	else
-		abort "ERROR: install __PKGNAME manually and reflash the module"
+		abort "ERROR: Please install __PKGNAME manually and then reflash the module"
 	fi
 }
 if [ $INS = true ]; then
