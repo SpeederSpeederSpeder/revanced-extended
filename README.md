@@ -1,6 +1,6 @@
 # ReVanced eXtended
 
-If you are looking for a way to enjoy YouTube to the fullest, you might want to try this build. Unlike [ReVanced](https://github.com/abakNacchan/revanced-magisk-module/releases), which uses a fixed version of YouTube, this build always updates to the latest version available, as long as it works with the essential features like SponsorBlock. This means you can always have the best YouTube experience possible, but sometimes you might have to wait a bit longer for the update. This build is for those who value freshness and quality over stability.
+For the ultimate YouTube experience, consider this build that always stays updated with the latest version, ensuring compatibility with key features like SponsorBlock™. It's designed for those who prioritize having the newest updates and a speedy performance, offering the freshest and highest quality experience over a more stable at [slower pace](https://github.com/AbakNacchan/revanced-magisk-module) version.
 
 [![CI](https://github.com/AbakNacchan/revanced-extended/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/AbakNacchan/revanced-extended/actions/workflows/ci.yml)
 
