@@ -163,7 +163,7 @@ if [ "$youtube_mode" != module ] || [ "$music_mode" != module ]; then
      log "- To use YouTube and YouTube Music without root, install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases/latest)."
 fi
 if [ "$youtube_mode" != apk ] || [ "$music_mode" != apk ]; then
-     log "- To detach YouTube and YouTube Music from Play Store, use the [zygisk-detach](https://github.com/j-hc/zygisk-detach) module."
+     log "- To detach YouTube and YouTube Music from Play Store, use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module."
 fi
 log "\nChangelog:"
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
