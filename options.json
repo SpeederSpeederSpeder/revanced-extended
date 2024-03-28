@@ -24,5 +24,73 @@
     "options" : [ {
       "key" : "OutlineIcon",
       "value" : false
+   } ]
+   }, {
+   [ {
+    "patchName" : "Custom double tap length",
+    "options" : [ {
+      "key" : "DoubleTapLengthArrays",
+      "value" : "3, 5, 10, 15, 20, 30, 60, 120, 180"
     } ]
+  }, {
+    "patchName" : "Theme",
+    "options" : [ {
+      "key" : "DarkThemeBackgroundColor",
+      "value" : "@android:color/black"
+    }, {
+      "key" : "LightThemeBackgroundColor",
+      "value" : "@android:color/white"
+    } ]
+  }, {
+    "patchName" : "Overlay buttons",
+    "options" : [ {
+      "key" : "OutlineIcon",
+      "value" : false
+    } ]
+  }, {
+    "patchName" : "SponsorBlock",
+    "options" : [ {
+      "key" : "OutlineIcon",
+      "value" : false
+    } ]
+  }, {
+  
+  
+  [ {
+    "patchName" : "Custom double tap length",
+    "options" : [ {
+      "key" : "DoubleTapLengthArrays",
+      "value" : "3, 5, 10, 15, 20, 30, 60, 120, 180"
+    } ]
+  }, {
+    "patchName" : "Theme",
+    "options" : [ {
+      "key" : "DarkThemeBackgroundColor",
+      "value" : "@android:color/black"
+    }, {
+      "key" : "LightThemeBackgroundColor",
+      "value" : "@android:color/white"
+    } ]
+  }, {
+    "patchName" : "Overlay buttons",
+    "options" : [ {
+      "key" : "OutlineIcon",
+      "value" : false
+    } ]
+  }, {
+    "patchName" : "SponsorBlock",
+    "options" : [ {
+      "key" : "OutlineIcon",
+      "value" : false
+    } ]
+  }, {
+    "patchName": "Custom branding",
+    "options": [ {
+        "key": "appName",
+        "value": "Youtube Revanced Extended"
+      }, {
+        "key": "iconPath",
+        "value": "product_logo_youtube_color_192-3482680411.png"
+  } ]       
   } ]
+  
